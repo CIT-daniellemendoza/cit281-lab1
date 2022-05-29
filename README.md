@@ -1,6 +1,6 @@
 # cit281-lab1
+```
 Software installation, practice with software, terminal, keyboard shortcuts, and creating first Node.js server-side Javascript file
-
 ```
 Software Installed: 
 - Chrome
@@ -8,7 +8,6 @@ Software Installed:
 - Node.js and included npm
 - git
 - Postman
-```
 
 Technologies Used: 
 - All software listed above (to be installed)
