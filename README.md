@@ -1,6 +1,6 @@
 # cit281-lab1
 ```
-Software installation, practice with software, terminal, keyboard shortcuts, 
+Purpose: Software installation, practice with software, terminal, keyboard shortcuts, 
 and creating first Node.js server-side Javascript file
 ```
 Software Installed: 
