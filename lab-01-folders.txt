@@ -1,0 +1,19 @@
+
+
+    Directory: C:\Users\19717\OneDrive\Documents\cit281
+
+
+Mode                 LastWriteTime         Length Name                                                                                                        
+----                 -------------         ------ ----                                                                                                        
+d----l         3/31/2022  11:08 AM                CLASS                                                                                                       
+da---l         3/31/2022  11:42 AM                p1                                                                                                          
+da---l         3/31/2022  11:40 AM                p2                                                                                                          
+da---l         3/31/2022  11:40 AM                p3                                                                                                          
+da---l         3/31/2022  11:40 AM                p4                                                                                                          
+da---l         3/31/2022  11:41 AM                p5                                                                                                          
+da---l         3/31/2022  11:41 AM                p6                                                                                                          
+da---l         3/31/2022  11:41 AM                p7                                                                                                          
+da---l         3/31/2022  11:41 AM                p8                                                                                                          
+-a----         3/31/2022  11:46 AM              0 lab-01-folders.txt                                                                                          
+
+
